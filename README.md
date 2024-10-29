@@ -23,6 +23,7 @@
 * Celery for Background Task
 * Redis for caching
 * drf-spectacular for api documentation
+13. You can see the api doc by navigating to the URL `localhost:8000/api/schema/swagger-ui/` & `localhost:8000/api/schema/redoc/`
 
 ### URL's I've implemented:
 * api/v1/register
