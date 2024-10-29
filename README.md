@@ -22,6 +22,7 @@
 * djangorestframework-simplejwt for creating JWT token authentication
 * Celery for Background Task
 * Redis for caching
+* drf-spectacular for api documentation
 
 ### URL's I've implemented:
 * api/v1/register
