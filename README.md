@@ -1,4 +1,4 @@
-[![Test and Deploy](https://github.com/aalmobin/book-project/actions/workflows/build_test.yml/badge.svg)](https://github.com/aalmobin/book-project/actions/workflows/build_test.yml)
+[![Test and Deploy](https://github.com/aalmobin/book-project/actions/workflows/build_test.yml/badge.svg)](https://github.com/aalmobin/book-project/actions/workflows/build_test.yml) ![Coverage](./coverage.svg)
 
 # Book Author project
 
