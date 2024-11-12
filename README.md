@@ -1,3 +1,5 @@
+[![Test and Deploy](https://github.com/aalmobin/book-project/actions/workflows/build_test.yml/badge.svg)](https://github.com/aalmobin/book-project/actions/workflows/build_test.yml)
+
 # Book Author project
 
 ## Python version: 3.11+
